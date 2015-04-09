@@ -1,7 +1,7 @@
 # NodeJS Downloadable Cart
 This cartridge is meant to represent a downloadable fork of the upstream [OpenShift Origin Nodejs Cartridge](https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-nodejs), which is documented in the [Cartridge Guide](http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs).
 
-Provide your own git repo url to [create embeddable launch buttons that use this cart](http://launch-shifter.rhcloud.com/?cartridges[]=https://raw.githubusercontent.com/ryanj/openshift-origin-cartridge-nodejs/master/metadata/manifest.ymlhttps://raw.githubusercontent.com/ryanj/openshift-origin-cartridge-nodejs/master/metadata/manifest.ymlhttps://raw.githubusercontent.com/ryanj/openshift-origin-cartridge-nodejs/master/metadata/manifest.ymlhttps://raw.githubusercontent.com/ryanj/openshift-origin-cartridge-nodejs/master/metadata/manifest.yml&initial_git_url=https://github.com/ryanj/restify-base.git&name=noderestify): 
+Provide your own git repo url to [create embeddable launch buttons that use this cart](http://launch-shifter.rhcloud.com/?cartridges[]=https://raw.githubusercontent.com/ryanj/openshift-origin-cartridge-nodejs/master/metadata/manifest.yml&initial_git_url=https://github.com/ryanj/restify-base.git&name=noderestify): 
 
 [![LAUNCH ON OpenShift](http://launch-shifter.rhcloud.com/launch/LAUNCH ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?cartridges[]=https://raw.githubusercontent.com/ryanj/openshift-origin-cartridge-nodejs/master/metadata/manifest.yml&initial_git_url=https://github.com/ryanj/restify-base.git&name=noderestify)
 
