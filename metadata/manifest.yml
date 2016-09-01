@@ -13,7 +13,7 @@ License: MIT License
 License-Url: https://raw.github.com/joyent/node/v0.10/LICENSE
 Vendor: http://ryanjarvinen.com
 Website: https://github.com/ryanj/openshift-origin-cartridge-nodejs
-Source-Url: https://github.com/ryanj/openshift-origin-cartridge-nodejs.git
+Source-Url: https://github.com/emarilly/openshift-origin-cartridge-node-red.git
 Cartridge-Version: 0.0.20
 Compatible-Versions:
 - 0.0.15
