@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+HOME=$HOME/app-root
+cd ~/repo
+npm install
