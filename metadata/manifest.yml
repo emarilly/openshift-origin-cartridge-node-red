@@ -75,4 +75,4 @@ Version-Overrides:
     - nodejs-0.6
     - nodejs
     License-Url: https://raw.github.com/joyent/node/v0.6/LICENSE
-    Install-Build-Required: false
+    Install-Build-Required: true
